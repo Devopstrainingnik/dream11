@@ -3,3 +3,4 @@
 "updated in test branch branch"
 "changes made in remote repository 1 time"
 "checking for cherrypick command"
+"Complete changes made in master branch"
